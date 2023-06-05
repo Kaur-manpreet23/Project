@@ -1,5 +1,5 @@
 //hello this was added by talha please do not remove this or code will not workd!!
-
+//this line was added by manpreet and this can be removed no problem
 
 #include<stdio.h>
 #include<sys/types.h>
