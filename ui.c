@@ -1,3 +1,6 @@
+//hello this was added by talha please do not remove this or code will not workd!!
+
+
 #include<stdio.h>
 #include<sys/types.h>
 #include<unistd.h>
